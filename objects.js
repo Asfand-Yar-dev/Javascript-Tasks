@@ -14,9 +14,6 @@
 
 //   console.log(person.fullName()); // Outputs "John Doe"
 
-
-
-
 const students = [
     { name: "Asfand Yar", age: 22, institution: "BUITEMS", department: "Computer Science", isEnrolled: true },
     { name: "Ali Khan", age: 21, institution: "NUST", department: "Software Engineering", isEnrolled: true },
