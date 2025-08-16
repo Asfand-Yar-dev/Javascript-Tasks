@@ -35,14 +35,13 @@
 
 
 
-// let cname ="Asfand Yar"
+let cname ="Asfand Yar"
 
-// function noshow(){
-//     let cname="Charlie"
-//     console.log('Hello', cname);
-// }
-// noshow();
-
+function noshow(){
+    let cname="Charlie"
+    console.log('Hello', cname);
+}
+noshow();
 
 
 function loginUserMessage(username = "sam"){
