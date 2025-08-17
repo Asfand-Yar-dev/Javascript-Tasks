@@ -4,7 +4,6 @@ function greeting(name) {
 
 console.log(greeting('Asfand'));
 
-
 //concatenation
 function name(firstname,lastname){
     return `My name is ${firstname} ${lastname}`;
