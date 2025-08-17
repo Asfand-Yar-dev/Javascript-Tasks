@@ -1,9 +1,8 @@
+// I did multiple practice of loops in this file
+
 for(i=1;i<=10;i++){
     console.log('Number:',i);
 }
-
-
-
 
 
 let sum = 0;
