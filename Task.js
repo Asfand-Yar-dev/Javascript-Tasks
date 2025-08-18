@@ -1,10 +1,10 @@
-// var a= 20;
-// const b=30;
-// console.log("20"+"89");
+ var a= 20;
+const b=30;
+ console.log("20"+"89");
 
-
-// let a=582398578327482734892493849384032n;
-// console.log(typeof a);
+//type of
+let a=582398578327482734892493849384032n;
+console.log(typeof a);
 
 
 
