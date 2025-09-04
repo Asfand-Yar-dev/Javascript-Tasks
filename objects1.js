@@ -8,7 +8,6 @@ var objects ={
         country:"ABC",
         HouseNo:4
     }
-
 }
 
 console.log(objects.firstname,objects.lastname);
